@@ -64,7 +64,7 @@ body {
     object-fit: contain;
     border-radius: 10px;
     border: dashed 1.5px #35465d;
-    background-color: #ffffff;
+    background-color: #F5ECCE;
 }
 
 .image-dropping,
@@ -138,6 +138,7 @@ body {
   line-height: 1.67;
   text-align: center;
   color: #ffffff;
+	font-family: sans-serif;
 }
 
 .subtitle {
@@ -201,7 +202,7 @@ body {
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: #CEE3F6;
+  background-color: #F8E0F7;
 }
 .나비-bar {
   position: absolute;
@@ -209,7 +210,7 @@ body {
   left: 0;
   height: 2rem;
   border-radius: 10px;
-  background-color: #0080FF;
+  background-color: #F781F3;
 }
 .거미-box {
   position: absolute;
@@ -294,7 +295,7 @@ body {
     margin: 0 auto;
 }
 .result-message {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 
@@ -344,9 +345,6 @@ body {
     font-size: 1.2rem;
 }
 
-.ad-banner {
-    max-width: 320px;
-}
 .shit {
 	line-height: 1.67;
   text-align: center;
