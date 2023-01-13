@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap: https://ai-facetest.shop/sitemap.xml
