@@ -3,15 +3,15 @@
  <channel>
   <title>{{ 벌레상 테스트 | xml_escape }}</title>
   <description>{{ 얼굴사진을 업로드 하여 자신과 닮은 곤충을 찾아보세요 | xml_escape }}</description>  
-  <link>{{ site.url }}</link>
+  <link>{{ https://ai-facetest.shop/ }}</link>
   <atom:link href="{{ https://ai-facetest.shop/ }}/{{ page.path }}" rel="self" type="application/rss+xml" />
   {% for post in site.posts %}
    <item>
-     <title>{{ post.title | xml_escape }}</title>
-     <description>{{ post.description | xml_escape }}</description>
+     <title>{{ 벌레상 테스트 | xml_escape }}</title>
+     <description>{{ 얼굴사진을 업로드 하여 자신과 닮은 곤충을 찾아보세요 | xml_escape }}</description>
      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-     <link>{{ https://ai-facetest.shop/ }}/{{ post.url }}</link>
-     <guid isPermaLink="true">{{ https://ai-facetest.shop/ }}/{{ post.url }}</guid>
+     <link>{{ https://ai-facetest.shop/ }}/{{ https://ai-facetest.shop/ }}</link>
+     <guid isPermaLink="true">{{ https://ai-facetest.shop/ }}/{{ https://ai-facetest.shop/ }}</guid>
    </item>
   {% endfor %}
  </channel>
