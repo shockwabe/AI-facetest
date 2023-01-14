@@ -2,15 +2,14 @@
 <rss version="2.0">
 <channel>
 <title>벌레상 테스트</title>
-<link>http://https://ai-facetest.shop</link>
-<description>얼굴사진을 업로드 하여 자신과 닮은 곤충을 찾아보세요! </description>
-	<item>
+<link>https://ai-facetest.shop/</link>
+<description>얼굴사진을 업로드 하여 자신과 닮은 곤충을 찾아보세요!</description>
+<item>
 <title>벌레상 테스트</title>
-<link>https://ai-facetest.shop </link>
-<guid>https://ai-facetest.shop</guid>
-<pubDate>sat, 14 jan 2023 22:41:32 GMT 
-</pubDate>
+<link>https://ai-facetest.shop/</link>
+<guid>https://ai-facetest.shop/</guid>
+<pubDate>sat, 14 jan 2023 20:48:00 GMT</pubDate>
 <description>얼굴사진을 업로드 하여 자신과 닮은 곤충을 찾아보세요!</description>
 </item>
-	</channel>
+</channel>
 </rss>
