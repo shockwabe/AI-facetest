@@ -330,10 +330,10 @@ body {
     color: #548dd4;
     font-size: 1.2rem;
 }
-.잠자리-animal-title {
+.지네-animal-title {
     color: #e56995;
 }
-.잠자리-animal-celeb {
+.지네-animal-celeb {
     color: #e56995;
     font-size: 1.2rem;
 }
@@ -356,4 +356,5 @@ body {
 	width: 320px;
 	margin: 0 auto;
 	padding-top: 50px;
+	padding-bottom: 50px;
 }
